@@ -1,13 +1,19 @@
+# RTX 3080 height comparison
+
+I made this because I need to know if the GPU fits in my Fractal Design Core 500.
+
+Some info comes from [this spreadsheet](https://docs.google.com/spreadsheets/d/1jhSktv9PHy1BKiMhvzWXNop34XX2UkC4H92V5IWPCs0/edit#gid=0). Thanks to whoever contributed to this sheet.
+
 ![lwh](images/LWH.png)
 
 Some cards I can't find the exact mm height of, they specify "slot size" like "2.2 slots". Usually this can be calculated by doing slots * 21, but it might be incorrect.
 
 | | Brand | Model | Power pins | Length (mm) | Width (mm) | Height (mm) |
 | - | - | - | - | - | - | - |
-| ![Founders Edition profile](images/Nvidia/founders-edition-profile.png) | Nvidia | Founders Edition | 1x 12 (2x 8 adapter) | 285 | 112 | 42 |
-| ![XC3 profile](images/EVGA/xc3-profile.png) | EVGA | XC3 | 2x 8 | 285.37 | 111.15 | 2.2 slots (46.2) |
 | ![Hydro Copper profile](images/EVGA/hydro-copper-profile.png) | EVGA | Hydro Copper | 2x 8 | ? | ? | <= 2 slots? |
 | ![Hybrid profile](images/EVGA/hybrid-profile.png) | EVGA | Hybrid | 2x 8 | ? | ? | <= 2 slots? |
+| ![Founders Edition profile](images/Nvidia/founders-edition-profile.png) | Nvidia | Founders Edition | 1x 12 (2x 8 adapter) | 285 | 112 | 42 |
+| ![XC3 profile](images/EVGA/xc3-profile.png) | EVGA | XC3 | 2x 8 | 285.37 | 111.15 | 2.2 slots (46.2) |
 | ![TUF Gaming profile](images/Asus/tuf-gaming-profile.png) | Asus | TUF Gaming | 2x 8 | 299.9 | 126.9 | 51.6 |
 | ![FTW3 profile](images/EVGA/ftw3-profile.png) | EVGA | FTW3 | 2x 8 | 300 | 136.75 | 55.55 |
 | ![Gaming X Trio profile](images/MSI/gaming-x-trio-profile.png) | MSI | Gaming (X) Trio | 3x 8 | 323 | 140 | 56 |
